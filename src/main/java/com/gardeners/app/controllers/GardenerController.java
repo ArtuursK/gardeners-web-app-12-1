@@ -1,5 +1,7 @@
-package com.gardeners.app;
+package com.gardeners.app.controllers;
 
+import com.gardeners.app.entities.Gardener;
+import com.gardeners.app.mapper.GardenerMapper;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.jdbc.core.JdbcTemplate;

@@ -1,5 +1,6 @@
-package com.gardeners.app;
+package com.gardeners.app.mapper;
 
+import com.gardeners.app.entities.Gardener;
 import org.springframework.jdbc.core.RowMapper;
 import java.sql.ResultSet;
 import java.sql.SQLException;

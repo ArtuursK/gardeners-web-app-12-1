@@ -1,4 +1,4 @@
-package com.gardeners.app;
+package com.gardeners.app.entities;
 
 
 public class Gardener {
